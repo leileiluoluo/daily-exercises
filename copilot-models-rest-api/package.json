@@ -1,7 +1,7 @@
 {
   "name": "copilot-models-rest-api",
   "displayName": "Copilot Models REST API",
-  "description": "",
+  "description": "Copilot Models REST API",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
